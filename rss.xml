@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Irreverent Pixel Feats</title>
+        <link>http://irreverentpixelfeats.com</link>
+        <description><![CDATA[Thoughts on Indie Game Dev, Software Engineering, Tech Culture, etc...]]></description>
+        <atom:link href="http://irreverentpixelfeats.com/rss.xml" rel="self"
+                   type="application/rss+xml" />
+        <lastBuildDate>Mon, 08 Jan 2018 00:00:00 UT</lastBuildDate>
+        <item>
+    <title>Micro Blogpost</title>
+    <link>http://irreverentpixelfeats.com/posts/news/2018-01-08-rss-feed.html</link>
+    <description><![CDATA[<h1>Micro Blogpost</h1>
+
+<div class="info">
+    <i class="fa fa-calendar" aria-hidden="true"/> <time datetime="2018-01-08" pubdate data-updated="true">January  8, 2018</time>
+</div>
+
+
+<div class="info">
+    <i class="fa fa-user-circle" aria-hidden="true"/> Dom De Re
+</div>
+
+
+
+<div class="info">
+    <i class="fa fa-clock-o" aria-hidden="true"/> 1 min
+</div>
+
+
+<div class="info">
+    <i class="fa fa-folder" aria-hidden="true"/> <a href="/categories/news.html">news</a>
+</div>
+
+
+<div class="info">
+    <i class="fa fa-bookmark" aria-hidden="true"/> <a href="/tags/rss.html">rss</a>
+</div>
+
+
+<p>We have an <a href="http://irreverentpixelfeats.com/rss.xml">RSS feed</a> now.</p>
+<p>Its a little old fashioned compared to Twitter, and even Atom Feeds, but whatever, its just what I use.</p>
+<p>That is all.</p>
+<!-- more -->
+]]></description>
+    <pubDate>Mon, 08 Jan 2018 00:00:00 UT</pubDate>
+    <guid>http://irreverentpixelfeats.com/posts/news/2018-01-08-rss-feed.html</guid>
+    <dc:creator>Dom De Re</dc:creator>
+</item>
+<item>
+    <title>I am Still Here</title>
+    <link>http://irreverentpixelfeats.com/posts/musings/2018-01-05-I-am-still-here.html</link>
+    <description><![CDATA[<h1>I am Still Here</h1>
+
+<div class="info">
+    <i class="fa fa-calendar" aria-hidden="true"/> <time datetime="2018-01-05" pubdate data-updated="true">January  5, 2018</time>
+</div>
+
+
+<div class="info">
+    <i class="fa fa-user-circle" aria-hidden="true"/> Dom De Re
+</div>
+
+
+
+<div class="info">
+    <i class="fa fa-clock-o" aria-hidden="true"/> 2 mins
+</div>
+
+
+<div class="info">
+    <i class="fa fa-folder" aria-hidden="true"/> <a href="/categories/musings.html">musings</a>
+</div>
+
+
+<div class="info">
+    <i class="fa fa-bookmark" aria-hidden="true"/> 
+</div>
+
+
+<p>Yeah, I am still here</p>
+<!-- more -->
+<h2 id="reflections">Reflections</h2>
+<p>I haven’t really posted as much here as I have wanted to.</p>
+<p>Reflecting upon it, I feel it ultimately boils down to the fact that this is currently a part time enterprise.</p>
+<p>Progress is slow.</p>
+<p>Like really slow.</p>
+<p>So quantity wise I don’t really perceive much has happened to talk about.</p>
+<p>Naturally on top of that there is then the question of “what little there is that has happened, how much of it is post worthy”.</p>
+<p>Looking back on my notes, it seems my answer to that question is consistently “not much”.</p>
+<h2 id="turning-it-around">Turning it Around</h2>
+<p>However I do really want to get in the habit of posting here more frequently, for engagement, but also for practical purposes.</p>
+<p>I feel in my “old” age if I don’t write down my strongly held opinions I end up forgetting them!</p>
+<p>It also helps with the really strong sense of isolation you go through as an indie developer.</p>
+<p>So I suppose I intend to combat the “quantity” problem by increasing the scope of the subject matter.</p>
+<p>For the last few months, Irreverent Pixel Feats has been engaged in providing consulting services for “end-to-end tech business”. What I mean is we has provided consulting services that treat tech business as an “end to end” undertaking with the stakeholders and customers at one end and actual individuals as employees at the other end, with a slightly more specific focus on the employees tasked with actually making the whims of the stakeholders and customers a reality. You could paraphrase it as “concept” at one end and “reality” at the other. However that wording has lost its meaning these days as it does seem to ignore the actual humans involved and is more concerned with really high level strategy. In effect this ignores a major component of the “reality” end.</p>
+<p>Basically we provide consulting on:</p>
+<ul>
+<li>Tech Leadership</li>
+<li>Tech Culture
+<ul>
+<li>With a practical analysis on actual human interactions.</li>
+</ul></li>
+<li>Architecture Design</li>
+<li>Tooling</li>
+<li>Software Development methodologies</li>
+<li>Coding practices</li>
+<li>etc…</li>
+</ul>
+<p>And we look at it all through the lens of Philosophy, Mathematics, Psychology, etc…</p>
+<p>So thats what I mean, its pretty broad. But so far the benefit of the effort has been that all these things become consistent, self-reinforcing, with a more even distribution of satisfied interests after the high level picture has been proposed by one person.</p>
+<p>I don’t really want to go into the specifics of what that entails or any examples.</p>
+<p>However, in the interest of increasing the “quantity” of material I am considering for posts, I want to enlarge the scope of the blog to include said specifics and examples.</p>
+<p>But IPF, especially with the addition of this consultancy side venture have provided me with a massive learning experience with the freedom to try new ideas, and to try them at scale.</p>
+<p>In the future, this venture may get separated entirely from IPF into a separate entity, at which point I’ll move the related content over to the relevent place.</p>
+<p>But the most important thing for me right now is to just start writing stuff.</p>
+<p>As for the quality concern, looking back on my notes in retrospect I feel this is more based on fear on my part.</p>
+<p>So I guess I’ll just try and be more conscious of “taking the leap”.</p>
+]]></description>
+    <pubDate>Fri, 05 Jan 2018 00:00:00 UT</pubDate>
+    <guid>http://irreverentpixelfeats.com/posts/musings/2018-01-05-I-am-still-here.html</guid>
+    <dc:creator>Dom De Re</dc:creator>
+</item>
+<item>
+    <title>AdventureX 2017</title>
+    <link>http://irreverentpixelfeats.com/posts/news/2017-11-11-adventurex-2017.html</link>
+    <description><![CDATA[<h1>AdventureX 2017</h1>
+
+<div class="info">
+    <i class="fa fa-calendar" aria-hidden="true"/> <time datetime="2017-11-11" pubdate data-updated="true">November 11, 2017</time>
+</div>
+
+
+<div class="info">
+    <i class="fa fa-user-circle" aria-hidden="true"/> Dom De Re
+</div>
+
+
+
+<div class="info">
+    <i class="fa fa-clock-o" aria-hidden="true"/> 4 min
+</div>
+
+
+<div class="info">
+    <i class="fa fa-folder" aria-hidden="true"/> <a href="/categories/news.html">news</a>
+</div>
+
+
+<div class="info">
+    <i class="fa fa-bookmark" aria-hidden="true"/> <a href="/tags/adventurex.html">adventurex</a>, <a href="/tags/adv2017.html">adv2017</a>, <a href="/tags/adventurex2017.html">adventurex2017</a>
+</div>
+
+
+<div class="figure">
+<img src="/images/AdventureX2017/KS-Image-750x500.jpg" />
+
+</div>
+<p><a href="https://adventurexpo.org/">AdventureX 2017</a> starts today (and finishes tomorrow, November 12)!</p>
+<!-- more -->
+<p>We’re very proud to be among the sponsors for <a href="https://adventurexpo.org/">AdventureX 2017</a>!</p>
+<p>AdventureX is an expo dedicated entirely to narrative driven games, there are:</p>
+<ul>
+<li>Talks that are educational for both game developers (in particular indie game developers) and gamers interested narrative driven games.</li>
+<li>AdventureX also provides a floor for indies to exhibit their games to gamers.</li>
+</ul>
+<p>It’s been going since 2011 (I think).</p>
+<p>They manage to attract well accomplished talent to speak about their craft, this year they have got:</p>
+<ul>
+<li><a href="https://twitter.com/WadjetEyeGames">Dave Gilbert</a> (Wadjet Eye Games, The Blackwell Series)</li>
+<li><a href="https://twitter.com/GrundislavGames">Francisco Gonzalez</a> (Shardlight, A Golden Wake)</li>
+<li><a href="https://twitter.com/tronbevan">Lottie Bevan</a> (Fail Better Games, Fallen London, Sunless Sea, Sunless Skies)</li>
+<li><a href="https://twitter.com/joningold">Jon Ingold</a> (<a href="https://inklestudios.com">inkle Studios</a>, 80 days, Sorcery!)</li>
+<li><a href="http://users.wpi.edu/~bmoriarty/">Brian Moriarty</a> (Loom)</li>
+<li><a href="http://www.adventurexpo.org/schedule/">And many more…</a> (This sampling doesn’t really do justice to the diversity of the speakers they have managed to wrangle)</li>
+</ul>
+<p>(This year) They livestream the talks.</p>
+<p><em>And they do all this without charging for entry</em>.</p>
+<p>So again, we’re very proud to be among the sponsors for this event.</p>
+<p>It is one of our aspirations to count ourselves as part of the supportive community that AdventureX nurtures and makes so accessible to the masses.</p>
+<p>Until we actually have a title or two in the can, however, we’ll have to make do with throwing over some money.</p>
+<p>A big thanks goes out to the organisers of this event, and congratulations to <a href="http://www.adventurexpo.org/#projects">all the exhibitors</a>.</p>
+<h2 id="some-of-our-favourite-talks-from-2016">Some of our Favourite Talks from 2016</h2>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/wTJHPPlqC9c?feature=oembed" frameborder="0" allowfullscreen>
+</iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/bx5ZLGBZAWs?feature=oembed" frameborder="0" allowfullscreen>
+</iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/OeXxjabTl3g?feature=oembed" frameborder="0" allowfullscreen>
+</iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/5oLD2cD9a_Y?feature=oembed" frameborder="0" allowfullscreen>
+</iframe>
+<p>Theres a <a href="https://www.youtube.com/watch?v=5oLD2cD9a_Y&amp;list=PLCsMVt0zsko1fbal17lqmAXZ2n_iFhTyd">more complete YouTube playlist here</a></p>
+]]></description>
+    <pubDate>Sat, 11 Nov 2017 00:00:00 UT</pubDate>
+    <guid>http://irreverentpixelfeats.com/posts/news/2017-11-11-adventurex-2017.html</guid>
+    <dc:creator>Dom De Re</dc:creator>
+</item>
+<item>
+    <title>The Land of No</title>
+    <link>http://irreverentpixelfeats.com/posts/news/2017-05-31-land-of-no.html</link>
+    <description><![CDATA[<h1>The Land of No</h1>
+
+<div class="info">
+    <i class="fa fa-calendar" aria-hidden="true"/> <time datetime="2017-05-31" pubdate data-updated="true">May 31, 2017</time>
+</div>
+
+
+<div class="info">
+    <i class="fa fa-user-circle" aria-hidden="true"/> Dom De Re
+</div>
+
+
+
+<div class="info">
+    <i class="fa fa-clock-o" aria-hidden="true"/> 1 min
+</div>
+
+
+<div class="info">
+    <i class="fa fa-folder" aria-hidden="true"/> <a href="/categories/news.html">news</a>
+</div>
+
+
+<div class="info">
+    <i class="fa fa-bookmark" aria-hidden="true"/> <a href="/tags/land-of-no.html">land-of-no</a>
+</div>
+
+
+<p>We have arrived to take our stab at <a href="https://www.youtube.com/watch?v=u9P20Jskwmo" title="Bob Bates talking about leading a creative life in the land of no at GDC 2016">leading a creative life in the land of no</a>!</p>
+<p>The blog isn’t much to look at now, but its a work in progress, and we just wanted to get something up.</p>
+<p>You can take a look at <a href="/philosophy.html">our philosophy</a> to get the long spiel of what we are about.</p>
+<p>The <code>TL;DR</code> is that we want to:</p>
+<ul>
+<li>Create narrative driven games the way we want to</li>
+<li>Apply Functional Programming to game development</li>
+<li>Learn from the rest of the game development community</li>
+<li>Give back to the game community</li>
+</ul>
+<!-- more -->
+<p>Now is a hard and exciting time to be an indie game developer.</p>
+<p>We will look to post often about our experiences as we find our feet.</p>
+]]></description>
+    <pubDate>Wed, 31 May 2017 00:00:00 UT</pubDate>
+    <guid>http://irreverentpixelfeats.com/posts/news/2017-05-31-land-of-no.html</guid>
+    <dc:creator>Dom De Re</dc:creator>
+</item>
+
+    </channel>
+</rss>
