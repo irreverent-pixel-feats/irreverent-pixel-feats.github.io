@@ -7,8 +7,114 @@
         <description><![CDATA[Thoughts on Indie Game Dev, Software Engineering, Tech Culture, etc...]]></description>
         <atom:link href="http://irreverentpixelfeats.com/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Mon, 08 Jan 2018 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2018 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Celeste Initial Impressions</title>
+    <link>http://irreverentpixelfeats.com/posts/game-reviews/2018-01-26-celeste-initial-impressions.html</link>
+    <description><![CDATA[<h1>Celeste Initial Impressions</h1>
+
+<div class="info">
+    <i class="fa fa-calendar" aria-hidden="true"/> <time datetime="2018-01-26" pubdate data-updated="true">January 26, 2018</time>
+</div>
+
+
+<div class="info">
+    <i class="fa fa-user-circle" aria-hidden="true"/> Dom De Re
+</div>
+
+
+
+<div class="info">
+    <i class="fa fa-clock-o" aria-hidden="true"/> 1 min
+</div>
+
+
+<div class="info">
+    <i class="fa fa-folder" aria-hidden="true"/> <a href="/categories/game-reviews.html">game-reviews</a>
+</div>
+
+
+<div class="info">
+    <i class="fa fa-bookmark" aria-hidden="true"/> <a href="/tags/celeste.html">celeste</a>, <a href="/tags/matt%20thorson.html">matt thorson</a>, <a href="/tags/initial%20impressions.html">initial impressions</a>, <a href="/tags/indie%20games.html">indie games</a>
+</div>
+
+
+<div class="figure">
+<img src="/images/celeste/boxart-final3.png" />
+
+</div>
+<p>Celeste became available on the Nintendo Switch last night and I swooped in on my copy!</p>
+<!-- more -->
+<p>I want to both:</p>
+<ol style="list-style-type: decimal">
+<li>Finish this game, and</li>
+<li>Get around to writing up what I learnt from it.</li>
+</ol>
+<p>However in both cases, it is highly likely that I will either:</p>
+<ol style="list-style-type: decimal">
+<li>Never get around to it, or</li>
+<li>Get around to it at a much later date.</li>
+</ol>
+<p>I really hope that I don’t let <code>1.</code> happen in either case, as my first play session with it left me feeling that it is:</p>
+<ol style="list-style-type: decimal">
+<li>A really fun game, and</li>
+<li>There is so much to learn from it in terms of creating a deep rewarding gameplay experience with a simple gameplay mechanic supported by brilliant level design.</li>
+</ol>
+<p>In any case, just in case either of those two scenarios eventuates, I want to take a brief note of my initial impression from the first play session. That way if I take longer than I expect to do a full write up, I have some notes of what I thought initially so I can remark on how my opinion changed or how it delivered on this initial promise. If I never get around to finishing it or doing a write up, then at least I wrote something on it.</p>
+<h2 id="initial-impressions">Initial Impressions</h2>
+<p>Just some dot points:</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=hQC0wNj6jNw">For some reason</a> I have this impression that Thorson’s game design style displays a certain diabolical cunning that players will find quite punishing.
+<ul>
+<li>As a (crap) platformer player, I tend to avoid platformers on this extreme end of the spectrum.</li>
+<li>I never got around to buying or playing Super Meat Boy or Undertale for this reason.</li>
+<li>I usually marvel at these games vicariously by watching speedruns for them.</li>
+<li>Even from the beginning I found some of the rooms quite challenging, hopefully for me the difficulty doesn’t ramp up too much more…</li>
+<li>However, Celeste seems very self aware that it will be punishing in terms of the demands on the players timing and dexterity. To that end it seems to balance it out with a strong measure of forgiveness:</li>
+<li>You have infinite lives</li>
+<li>There is no requirement beyond “getting through the puzzles that are put in front of you”.
+<ul>
+<li>Collectable strawberries are purely optional.</li>
+<li>Collecting and playing through B-Sides are optional.</li>
+</ul></li>
+<li>Each level is divided up into small room sized chunks that constitute self contained puzzles, when you die, you just go back to the beginning of that room.</li>
+<li>Theres replayability for those who:
+<ul>
+<li>Like collecting stuff</li>
+<li>Like more punishment in the form of the “B-Side” levels.</li>
+<li>Research speedruns for games.
+<ul>
+<li>This game seems pretty ideal for speedrunners actually, the speedrun clock feature indicates that its been aimed at that demographic.</li>
+<li>I’ll be looking forward to seeing speedruns for this at the various <a href="https://gamesdonequick.com/">Games Done Quick</a> events.</li>
+</ul></li>
+</ul></li>
+<li>I play more for plot, so I’ll likely be putting it down after</li>
+</ul></li>
+<li>In terms of what the player can do, the mechanics are fairly simple, you can climb and have this “dash” ability.
+<ul>
+<li>Its fairly easy to get used to controlling the player for this reason. Given that the puzzles will require good timing and mixed measure of foresight and improvisation, the simple mechanics and controls serve the player well in that regard.</li>
+<li>The depth of the gameplay mechanics and level design come from the environmental gameplay mechanics, the moving platforms, the unstable platforms, the “pragmatic part” of Madeline, etc…
+<ul>
+<li>This provides a strong “explorational/discovery” theme for the game, similar to Mario Odyssey. But its a big promise to have to deliver on. Mario Odyssey ended up feeling a little stale for me towards the end when they stopped delivering “new experiences” by way of new NPCs to control.</li>
+<li>The environmental game play mechanics complement Madelines abilities very well.</li>
+<li>I’ll be very impressed if Celeste manages to deliver this sensation of discovery all the way up to the end of the game.</li>
+</ul></li>
+</ul></li>
+<li>The plot seems promising in terms of charm and heart.
+<ul>
+<li>The team behind it had a very nice coherent idea of the themes the game would be about.
+<ul>
+<li>That is: Exploration and Discovery (of your environment, and yourself).</li>
+<li>I’ll see if it remains focussed for the duration of the whole game.</li>
+</ul></li>
+</ul></li>
+</ul>
+]]></description>
+    <pubDate>Fri, 26 Jan 2018 00:00:00 UT</pubDate>
+    <guid>http://irreverentpixelfeats.com/posts/game-reviews/2018-01-26-celeste-initial-impressions.html</guid>
+    <dc:creator>Dom De Re</dc:creator>
+</item>
+<item>
     <title>Micro Blogpost</title>
     <link>http://irreverentpixelfeats.com/posts/news/2018-01-08-rss-feed.html</link>
     <description><![CDATA[<h1>Micro Blogpost</h1>
