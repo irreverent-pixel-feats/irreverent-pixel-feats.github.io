@@ -7,8 +7,114 @@
         <description><![CDATA[Thoughts on Indie Game Dev, Software Engineering, Tech Culture, etc...]]></description>
         <atom:link href="http://irreverentpixelfeats.com/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Tue, 15 Jan 2019 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jan 2019 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Fate of Atlantis Background Analysis 2</title>
+    <link>http://irreverentpixelfeats.com/posts/development/2019-01-19-indy4-catroom-analysis.html</link>
+    <description><![CDATA[<h1>Fate of Atlantis Background Analysis 2</h1>
+
+
+<div class="info">
+    <i class="fa fa-book" aria-hidden="true"/> Barnett College Cat Room
+</div>
+
+
+<div class="info">
+    <i class="fa fa-calendar" aria-hidden="true"/> <time datetime="2019-01-19" pubdate data-updated="true">January 19, 2019</time>
+</div>
+
+
+<div class="info">
+    <i class="fa fa-user-circle" aria-hidden="true"/> Dom De Re
+</div>
+
+
+
+<div class="info">
+    <i class="fa fa-clock-o" aria-hidden="true"/> 5 mins
+</div>
+
+
+<div class="info">
+    <i class="fa fa-folder" aria-hidden="true"/> <a href="/categories/development.html">development</a>
+</div>
+
+
+<div class="info">
+    <i class="fa fa-bookmark" aria-hidden="true"/> <a href="/tags/indy4.html">indy4</a>, <a href="/tags/fate-of-atlantis.html">fate-of-atlantis</a>, <a href="/tags/indiana-jones.html">indiana-jones</a>, <a href="/tags/background-art.html">background-art</a>, <a href="/tags/atlantis-background-analysis.html">atlantis-background-analysis</a>
+</div>
+
+
+<p>The next scene we are going to analyse in our <a href="/tags/atlantis-background-analysis.html">Fate of Atlantis background analysis series</a> is the Cat Room at Caswell Hall.</p>
+<!-- more -->
+<h2 id="analysis">Analysis</h2>
+<h3 id="the-scene">The Scene</h3>
+<p><img src="/images/room-studies/indy4/barnett-level-g-1.png" /></p>
+<p>This scene plays a part in the intro sequence of the game. Most of the Indiana Jones movies start with an adventure sequence in some dangerous exotic location (even Utah is exotic to some people).</p>
+<p>In Fate of Atlantis the intro sequence is right across the road from Indy’s office. Its not without its dangers though.</p>
+<p>Its a pretty light sequence and eases the player into the way the game works.</p>
+<p>This scene contributes to the atmosphere of that intro sequence, a scary yet urban place to explore and find trinkets.</p>
+<p>I wanted to have a look at this one because I was having difficulty getting a 2 point perspective room to work.</p>
+<p>Its got the following properties:</p>
+<ul>
+<li>2 point perspective</li>
+<li>Interior</li>
+<li>Single Screen</li>
+<li>A fair amount of depth.</li>
+</ul>
+<h3 id="rule-of-thirds">Rule of Thirds</h3>
+<p><img src="/images/room-studies/indy4/barnett-level-g-1-thirds.png" /></p>
+<p>Observations:</p>
+<ul>
+<li>Left most shelf touches the boundary</li>
+<li>Variety across the lower horizontal boundary
+<ul>
+<li>Shelves above the lower horizontal boundary</li>
+<li>Drawers below the lower horizontal boundary</li>
+</ul></li>
+<li>Big cat on the upper-right junction point</li>
+<li>Small cat on the lower-right junction point</li>
+</ul>
+<p>Theres “stuff” in every single square of the grid to spread out the interest, even the ceiling isn’t entirely plain, with some kind of pattern on it, even if it isn’t an intricate design.</p>
+<p>When Indy falls through the ceiling (image below) he falls from the central cell into the centre of the bottom-middle cell. The rule of thirds helps spread this stuff out rather than placing it in the middle of the scene.</p>
+<p><img src="/images/room-studies/indy4/barnett-level-g-1-with-hole.jpg" /></p>
+<h3 id="triangles">Triangles</h3>
+<p><img src="/images/room-studies/indy4/barnett-level-g-1-triangles.png" /></p>
+<p>I didnt really notice many triangles.</p>
+<p>The cats form a triangle though:</p>
+<ol type="1">
+<li>The foreground cat on the upper right junction of thirds</li>
+<li>The small cat figurines on the lower right junction of thirds</li>
+<li>The 4 cats on the table</li>
+</ol>
+<p>The triangle spreads them throughout the scene, and putting the first two on the junction of thirds stengthens the focus on them.</p>
+<p>All up the cats are enough to establish the room as a “cat room” even though everything else is pretty generic. Lets you do more with less.</p>
+<h3 id="perspective">Perspective</h3>
+<p><img src="/images/room-studies/indy4/barnett-level-g-1-perspective.png" /></p>
+<p>The eye line is at about the same level as <a href="/posts/development/2019-01-15-indy4-office-analysis.html">indy’s office</a>.</p>
+<p>This one however employs a 2 point perspective, the vanishing points as indicated in the image above.</p>
+<p>The vanishing points are within the bounds of the frame, pushed out pretty close to the boundaries. This probably works well for a larger sized room where the far corner recedes pretty far into the image. Moving the camera closer to the corner would mean the vanishing points would fall outside the bounds of the frame.</p>
+<h3 id="walkboxes">Walkboxes</h3>
+<p><img src="/images/room-studies/indy4/barnett-level-g-1-walkboxes.png" /> <img src="/images/room-studies/indy4/barnett-level-g-1-walkboxes-1.png" /></p>
+<p>The scaling here works pretty well, you see Indy standing next to each of the shelves, and he looks about the same height relative to each one.</p>
+<p>Its nice that they lined it up really well, but generally viewers dont really notice if the scaling doesn’t line up with the perspective 100%, theres generally a bit of tolerance before it becomes a bit jarring for the player.</p>
+<p>Afterall, trying to get the character scaling in a game like Day of the Tentacle make sense when the Chuck Jones-esque art style bends the laws of perspective so hard would be impossible.</p>
+<p>In cases like that though, the player notices to some degree and its part of the charm of the art style.</p>
+<p>The important thing is that once again, at the spot within the walkboxes where Indy is as close to the camera as he can get, he is scaled at 100% (spots A and B). No upscaling.</p>
+<h3 id="colours">Colours</h3>
+<p>The hues are predominantly blue and purple (getting pretty close to red at places). The overall feeling is a cool mood from those hues.</p>
+<p>The area with the chute that leads down to the furnace room, however, does stick out, with the warm orange hue with higher saturation and value.</p>
+<h3 id="see-also">See Also</h3>
+<ul>
+<li><a href="/tags/atlantis-background-analysis.html">Our analysis of other Fate of Atlantis backgrounds</a></li>
+<li><a href="https://twitter.com/i/moments/821086210344960001">Ben Chandler’s analysis of Peter Chan’s Full Throttle background art</a></li>
+</ul>
+]]></description>
+    <pubDate>Sat, 19 Jan 2019 00:00:00 UT</pubDate>
+    <guid>http://irreverentpixelfeats.com/posts/development/2019-01-19-indy4-catroom-analysis.html</guid>
+    <dc:creator>Dom De Re</dc:creator>
+</item>
+<item>
     <title>Fate of Atlantis Background Analysis 1</title>
     <link>http://irreverentpixelfeats.com/posts/development/2019-01-15-indy4-office-analysis.html</link>
     <description><![CDATA[<h1>Fate of Atlantis Background Analysis 1</h1>
@@ -471,7 +577,7 @@
 </div>
 
 
-<p>We have an <a href="http://irreverentpixelfeats.com/rss.xml">RSS feed</a> now.</p>
+<p>We have an <a href="/rss.xml">RSS feed</a> now.</p>
 <p>Its a little old fashioned compared to Twitter, and even Atom Feeds, but whatever, its just what I use.</p>
 <p>That is all.</p>
 <!-- more -->
