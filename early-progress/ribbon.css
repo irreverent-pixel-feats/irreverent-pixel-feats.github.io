@@ -174,36 +174,18 @@ footer {
 }
 
 @media only screen and (max-height: 450px) and (orientation: landscape){
-	.menu {
-		position: absolute;
-		left: 50%;
-		bottom: 5%;
+        .social-media {
 		width: 100%;
 		text-align: center;
-		-ms-transform: translate(-50%, -5%);
-		transform: translate(-50%, -5%);
-		-webkit-transform: translate(-50%, -5%);
 	}
 
-        .social-media {
-		position: absolute;
-		left: 50%;
-		bottom: 3%;
-		width: 100%;
-		text-align: center;
-		-ms-transform: translate(-50%, -3%);
-		transform: translate(-50%, -3%);
-		-webkit-transform: translate(-50%, -3%);
-	}
-	
 	.title-logo {
-		position: absolute;
-		left:48%;
-		top: 15%;
-		-ms-transform: translate(-48%, -15%);
-		transform: translate(-48%, -15%);
-		-webkit-transform: translate(-48%, -15%);
+		padding-top:5vh;
 		max-width:50%;
+	}
+
+	.title-logo img {
+		max-width:80%;
 	}
 
 	.menu-button a, .menu-item a {
