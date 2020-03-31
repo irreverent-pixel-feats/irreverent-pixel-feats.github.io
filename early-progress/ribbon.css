@@ -60,6 +60,17 @@ body {
 	text-align: center;
 }
 
+.white-text {
+	text-transform: uppercase;
+	text-decoration:none;
+	
+	background-color: rgba(18, 14, 33, 0.5);
+	
+	color: rgb(221, 230, 222);
+	font-size: 1em;
+	text-align: center;
+}
+
 .menu-button {
 	display: inline-block;
 	text-align: center;
@@ -117,34 +128,17 @@ footer {
 
 @media only screen and (max-width: 1366px) and (orientation: portrait){
 	.title-logo {
-		width: 70%;
-		position: absolute;
-		left: 48%;
-		top: 12%;
-		transform: translate(-48%, -12%); /* (x, y)  => position */
-		-ms-transform: translate(-48%, -12%); /* IE 9 */
-		-webkit-transform: translate(-48%, -12%); /* Chrome, Safari, Opera */  
+		padding-top: 5vh;
 	}
 	
 	.title-logo img {
-		width:100%;
+		display: inline-block;
+		max-width:90%;
 		height:auto;
 	}
 		
-	.menu {
-		left: 50%;
-		bottom: 10%;
-		-ms-transform: translate(-50%, -10%);
-		transform: translate(-50%, -10%);
-		-webkit-transform: translate(-50%, -10%);
-	}
-	
 	.social-media {
-		left: 50%;
-		bottom: 5%;
-		-ms-transform: translate(-50%, -5%);
-		transform: translate(-50%, -5%);
-		-webkit-transform: translate(-50%, -5%);
+		width: 90%;
 	}
 	
 	.menu-button a, .menu-item a, .social-media a {
@@ -153,55 +147,28 @@ footer {
 }
 
 @media only screen and (max-width: 950px) and (orientation: portrait){
-	.menu {
-		display: flex;
-		flex-direction: column;
-		position: absolute;
-		left: 50%;
-		bottom: 6%;
-		width: 100%;
-		text-align: center;
-		-ms-transform: translate(-50%, -6%);
-		transform: translate(-50%, -6%);
-		-webkit-transform: translate(-50%, -6%);
-	}
-
         .social {
 		display: flex;
 		flex-direction: column;
-		position: absolute;
-		left: 50%;
-		bottom: 6%;
 		width: 100%;
-		text-align: center;
-		-ms-transform: translate(-50%, -3%);
-		transform: translate(-50%, -3%);
-		-webkit-transform: translate(-50%, -3%);
+                text-align: center;
 	}
 	
 	.title-logo {
-		order: 1;
-		position: absolute;
-		left:40%;
-		top: 10%;
-		-ms-transform: translate(-40%, -10%);
-		transform: translate(-40%, -10%);
-		-webkit-transform: translate(-40%, -10%);
 		width:80%;
 	}
 
 	.title-logo img {
+	        display: inline-block;
 		max-width:100%;
 		height: auto;
 	}	
 		
 	.menu-button {
-		order: 2;
 		margin-bottom: 0.6em;
 	}
 	
 	.menu-item {
-		order: 3;
 		margin-top: 1.2em;
 	}
 }
