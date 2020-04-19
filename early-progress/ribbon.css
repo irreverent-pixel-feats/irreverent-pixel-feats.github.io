@@ -127,6 +127,11 @@ footer {
 /*************responsive css***************/
 
 @media only screen and (max-width: 1366px) and (orientation: portrait){
+	
+	.hero {
+		align-items: center;
+	}
+	
 	.title-logo {
 		padding-top: 5vh;
 	}
@@ -147,11 +152,15 @@ footer {
 }
 
 @media only screen and (max-width: 950px) and (orientation: portrait){
+	.hero {
+		align-items: center;
+	}
+
         .social {
 		display: flex;
 		flex-direction: column;
 		width: 100%;
-                text-align: center;
+		text-align: center;
 	}
 	
 	.title-logo {
@@ -174,6 +183,10 @@ footer {
 }
 
 @media only screen and (max-height: 450px) and (orientation: landscape){
+	.hero {
+		align-items: center;
+	}
+
         .social-media {
 		width: 100%;
 		text-align: center;
@@ -196,6 +209,10 @@ footer {
 }
 	
 @media only screen and (max-height: 320px) and (orientation: landscape){
+	.hero {
+		align-items: center;
+	}
+
 	.menu-button a, .menu-item a {
 		font-size:0.6em;
 		margin-left: 0.8em;
@@ -204,6 +221,10 @@ footer {
 }
 
 @media only screen and (max-width: 420px) and (orientation: portrait){
+	.hero {
+		align-items: center;
+	}
+
 	.menu-button a, .menu-item a {
 		font-size:0.8em;
 	}
